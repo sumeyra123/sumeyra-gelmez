@@ -4,7 +4,7 @@ Created on Tue Feb 22 19:41:31 2022
 
 @author: Sümeyra Nihal GELMEZ
 """
-
+#fibonaccı
 def main() :
    n = int(input("Enter n: "))
    for i in range(1, n + 1) :
