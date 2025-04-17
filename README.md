@@ -1,10 +1,12 @@
-# sumeyra-gelmez
-adana bilim ve teknoloji üniversitesi(yönetim bilişim  sistemleri /ingilizce)
-#kullanıcı girdim usernamve password if else kullanarak.
-a=(input("please enter your userame:"))
-b=(input("please enter your password :"))
-if a== "Turkey" and b== "1923":
-  print("success")
-else:
-   print("username or password is uncorrect")
- 
+# 📄 Sümeyra Nihal Gelmez –
+
+Merhaba! Ben Sümeyra Nihal Gelmez. Yönetim Bilişim Sistemleri (İngilizce) son sınıf öğrencisiyim. Finansal teknolojiler, yazılım geliştirme, proje yönetimi ve gönüllülük temelli liderlik alanlarında yetkinlik sahibiyim.
+
+
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sümeyragelmez)  
+- 📍 İskenderun, Türkiye
+
+---
+
+> “Teknolojiyi insan yararına kullanmak, en büyük liderlik becerisidir.”
